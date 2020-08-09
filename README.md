@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [<img align="left" alt="someta.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="martyns0n | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][https://t.me/martyns0n]
+[<img align="left" alt="martyns0n | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [website]: https://someta.site
 [twitter]: https://twitter.com/somartyn
@@ -13,6 +13,8 @@
 <br />
 
 ---
+### Stats
+
 <img align="left" alt="Martyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martyns0n&show_icons=true&hide_border=true" />
 
 <br/>
