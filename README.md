@@ -28,6 +28,8 @@
 <br />
 <br />
 
+---
+
 [website]: https://someta.site
 [twitter]: https://twitter.com/somartyn
 [youtube]: https://www.youtube.com/channel/UCPE-DYC7ifz-BK47nm6VKHA
