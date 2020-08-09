@@ -4,11 +4,9 @@
 
 [<img align="left" alt="someta.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="martyns0n | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="martyns0n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="martyns0n | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][resume]
 
-[website]: https://someta.site
-[twitter]: https://twitter.com/somartyn
-[youtube]: https://www.youtube.com/channel/UCPE-DYC7ifz-BK47nm6VKHA
-[linkedin]: https://linkedin.com/in/martyns0n
 
 <br />
 
@@ -27,4 +25,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+</br>
+</br>
 
+<img align="left" alt="Martyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martyns0n&show_icons=true&hide_border=true" />
+
+[website]: https://someta.site
+[twitter]: https://twitter.com/somartyn
+[youtube]: https://www.youtube.com/channel/UCPE-DYC7ifz-BK47nm6VKHA
+[linkedin]: https://linkedin.com/in/martyns0n
+[telegram]: https://t.me/martyns0n
+[resume]: https://www.notion.so/martyns0n/e-b4cf8e86c55143aa887051f12abe1391
