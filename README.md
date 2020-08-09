@@ -26,8 +26,8 @@
 <br />
 
 ---
-
-<img align="left" alt="Martyn's Github Stats" src="https://github-readme-stats.martyns0n.vercel.app/api?username=martyns0n&show_icons=true&hide_border=true" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=martyns0n)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Martyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martyns0n&show_icons=true&hide_border=true" />
 
 [website]: https://someta.site
 [twitter]: https://twitter.com/somartyn
