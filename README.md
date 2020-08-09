@@ -11,16 +11,6 @@
 [linkedin]: https://linkedin.com/in/martyns0n
 
 <br />
-<br />
-
----
-
-<img align="left" alt="Martyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martyns0n&show_icons=true&hide_border=true" />
-
-<br/>
-<br/>
-
----
 
 ### Languages and Tools:
 
