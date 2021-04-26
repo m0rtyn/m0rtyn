@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="someta.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="someta.site" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="martyns0n | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="martyns0n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="martyns0n | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][resume]
@@ -28,6 +28,6 @@
 [website]: https://someta.site
 [twitter]: https://twitter.com/somartyn
 [youtube]: https://www.youtube.com/channel/UCPE-DYC7ifz-BK47nm6VKHA
-[linkedin]: https://linkedin.com/in/martyns0n
-[telegram]: https://t.me/martyns0n
+[linkedin]: https://linkedin.com/in/m0rtyn
+[telegram]: https://t.me/m0rtyn
 [resume]: https://www.notion.so/martyns0n/e-b4cf8e86c55143aa887051f12abe1391
