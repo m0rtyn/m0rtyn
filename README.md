@@ -2,10 +2,10 @@
 
 ### Connect with me
 
-[🌐 Website][website]
-[🛩 Telegram][telegram]
-[🐦 Twitter][twitter]
-[📄 Resume][resume]
+- [🌐 Website][website]
+- [🛩 Telegram][telegram]
+- [🐦 Twitter][twitter]
+- [📄 Resume][resume]
 
 ### Languages and Tools
 
