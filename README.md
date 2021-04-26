@@ -22,7 +22,7 @@
 </br>
 </br>
 
-<img align="left" alt="Martyn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&hide_border=true" />
+![Martyn's Github Stats](https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [website]: https://someta.site
 [twitter]: https://twitter.com/somartyn
