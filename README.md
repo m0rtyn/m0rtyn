@@ -1,16 +1,15 @@
 ### Hi there, I'm Martyn 👋
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="someta.site" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="martyns0n | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="martyns0n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="martyns0n | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][resume]
-
+[🌐 Website][website]
+[🛩 Telegram][telegram]
+[🐦 Twitter][twitter]
+[📄 Resume][resume]
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
