@@ -1,13 +1,19 @@
-### Hi there, I'm Martyn 👋
+# Hi there, I'm Martyn 👋
 
-### Connect with me
+## About
 
-- [🌐 Website][website]
+- 👩‍🎤 PiterCSS, PyterPy, Burning Lead and Kolesa Conf speaker
+- ✍️ Creator and author of https://someta.site
+- 💪 Frontend dev with project management expansion
+
+
+## Connect with me
+
 - [🛩 Telegram][telegram]
-- [🐦 Twitter][twitter]
+- [✉️ Email][email]
 - [📄 Resume][resume]
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -28,3 +34,4 @@
 [linkedin]: https://linkedin.com/in/m0rtyn
 [telegram]: https://t.me/m0rtyn
 [resume]: https://www.notion.so/martyns0n/e-b4cf8e86c55143aa887051f12abe1391
+[email]: mailto:zogacc@gmail.com
