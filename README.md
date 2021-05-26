@@ -22,11 +22,12 @@
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
 </br>
 </br>
 
-![Martyn's Github Stats](https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## And my stats
+
+![Martyn's Github Stats](https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&title_color=fff&icon_color=77ffff&text_color=9f9f9f&bg_color=151515)
 
 [website]: https://someta.site
 [twitter]: https://twitter.com/somartyn
