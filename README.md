@@ -21,7 +21,7 @@
 
 - [🛩 Telegram][telegram]
 - [✉️ Email][email]
-- [📄 Resume][resume]
+- [📄 CV][resume]
 
 ## And my stats
 
