@@ -40,5 +40,5 @@
 [youtube]: https://www.youtube.com/channel/UCPE-DYC7ifz-BK47nm6VKHA
 [linkedin]: https://linkedin.com/in/m0rtyn
 [telegram]: https://t.me/m0rtyn
-[resume]: https://www.notion.so/martyns0n/e-b4cf8e86c55143aa887051f12abe1391
+[resume]: https://m0rtyn.github.io/cv/FE.pdf
 [email]: mailto:zogacc@gmail.com
