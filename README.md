@@ -31,10 +31,10 @@
   </a>
 </div>
 
-[website]: https://someta.site
+[website]: https://mOrtyn.github.io
 [twitter]: https://twitter.com/somartyn
-[youtube]: https://www.youtube.com/channel/UCPE-DYC7ifz-BK47nm6VKHA
+[youtube]: https://www.youtube.com/@m0rtyn
 [linkedin]: https://linkedin.com/in/m0rtyn
 [telegram]: https://t.me/m0rtyn
-[resume]: https://m0rtyn.github.io/cv/FE.pdf
+[resume]: https://m0rtyn.github.io/cv/FE_EN.pdf
 [email]: mailto:zogacc@gmail.com
