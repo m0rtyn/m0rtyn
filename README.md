@@ -11,7 +11,6 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 - 💪 Frontend dev with project management extension
 - 👩‍🎤 Speaker at PiterCSS, PyterPy, Burning Lead, Kolesa Conf and vas3k.club
-- ✍️ Personal blog https://m0rtyn.github.io
 
 ## Connect with me
 
