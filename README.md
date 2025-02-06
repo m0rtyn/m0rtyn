@@ -22,13 +22,16 @@
 
 ![Martyn's Github](https://github-readme-stats.vercel.app/api?username=m0rtyn&show_icons=true&title_color=fff&icon_color=77ffff&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)
 
-## Support me
+![LeetCode Stats](https://leetcard.jacoblin.cool/m0rtyn?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&width=500&height=200&border=1&radius=8)
 
+<!--
+## Support me
 <div>
   <a href="https://www.buymeacoffee.com/m0rtyn" target="_blank">
-    <img width="200" alt="Buy me a coffee" src="https://user-images.githubusercontent.com/14220138/123853732-53e12b80-d90d-11eb-9f0c-28ddad8dff35.png">
+    <img width="200" alt="Buy me a rocket" src="https://user-images.githubusercontent.com/14220138/123853732-53e12b80-d90d-11eb-9f0c-28ddad8dff35.png">
   </a>
 </div>
+-->
 
 [website]: https://mOrtyn.github.io
 [twitter]: https://twitter.com/somartyn
