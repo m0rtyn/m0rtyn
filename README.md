@@ -9,6 +9,10 @@
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Node.js" width="20px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+      <img align="left" alt="Node.js" width="20px" 
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/bun.png" />
+      <img align="left" alt="Node.js" width="20px" 
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/hono.png" />
 - 💪 Full stack dev
 - 👩‍🎤 Speaker at PiterCSS, PyterPy, Burning Lead, Kolesa Conf and vas3k.club
 
