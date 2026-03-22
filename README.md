@@ -1,10 +1,8 @@
-# 👋 Hello stranger, I'm Martyn
+# 👋 Hello stranger
 
-## Me
-
-- 💪 Full Stack Dev
-- 👩‍🎤 Speaker at PiterCSS, PiterPy, Burning Lead, Kolesa Conf and Vas3k.AMA
--  
+> 💪 Full Stack Dev
+> 👩‍🎤 Speaker at PiterCSS, PiterPy, Burning Lead, Kolesa Conf and Vas3k.AMA
+>  
   [![My Skills](https://skillicons.dev/icons?i=ts,react,angular,nodejs,bun,hono)](https://skillicons.dev)
 
 ## Call me maybe
