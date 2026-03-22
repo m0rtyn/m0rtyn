@@ -4,8 +4,7 @@
 
 > 👩‍🎤 Speaker at PiterCSS, PiterPy, Burning Lead, Kolesa Conf and Vas3k.AMA
 
->  
-  [![My Skills](https://skillicons.dev/icons?i=ts,react,angular,nodejs,bun,hono)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,angular,nodejs,bun,hono)](https://skillicons.dev)
 
 ## Call me maybe
 
