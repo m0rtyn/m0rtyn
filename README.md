@@ -3,18 +3,17 @@
 ## About
 
 -  
+  [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,but,hono)](https://skillicons.dev)
   <img align="left" alt="JavaScript" width="20px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   <img align="left" alt="React" width="20px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Node.js" width="20px" 
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-      <img align="left" alt="Node.js" width="20px" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/bun.png" />
-      <img align="left" alt="Node.js" width="20px" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/hono.png" />
 - 💪 Full stack dev
 - 👩‍🎤 Speaker at PiterCSS, PyterPy, Burning Lead, Kolesa Conf and vas3k.club
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Connect with me
 
